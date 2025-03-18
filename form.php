@@ -68,7 +68,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
             <label for="status">Status:</label>
             <select name="status" id="status" required>
-                <option value="pelajar">Pelajar</option>
+                <option value="pelajar/Mahasiswa">Pelajar</option>
                 <option value="bekerja">Bekerja</option>
                 <option value="tidak bekerja">Tidak Bekerja</option>
                 <option value="belum sekolah">Belum Sekolah</option>
